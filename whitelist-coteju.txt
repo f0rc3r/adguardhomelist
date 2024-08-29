@@ -1,3 +1,4 @@
+@@||coteju.net/^$important
 @@||storage.content-editor.campaign.optimizely.com^$important
 @@||t.co/^$important
 @@||new.lewd.ninja^$important
