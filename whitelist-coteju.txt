@@ -1,9 +1,6 @@
-@@||coteju.net/^$important
 @@||storage.content-editor.campaign.optimizely.com^$important
 @@||t.co/^$important
-@@||new.lewd.ninja^$important
 @@||quickconnect.to^$important
-@@||xxx.lewd.ninja^$important
 @@||mixdrop.co^$important
 @@||ikea.com^$important
 @@||c.paypal.com^$important
@@ -12,18 +9,10 @@
 @@||dub.stats.paypal.com^$important
 @@||b.stats.paypal.de^$important
 @@||dub.stats.paypal.de^$important
-@@||fap-nation.com^$important
-@@||camvault.xyz^$important
-@@||cam4.com^$important
-@@||cam4.de^$important
-@@||cam4.de.com^$important
-@@||onlyfans.com^$important
 @@||eis.de^$important
 @@||edenfantasy.com^$important
 @@||tracking.dpd.de^$important
-@@||motherless.com^$important
-@@||analytics-api.home-assistant.io^$client='192.168.178.232'
-@@||owo.lewd.ninja^$important
+@@||analytics-api.home-assistant.io^$important
 @@||eicar.org^$important
 @@||r2.computerbild.de^$important
 @@||www.aftership.com^$important
@@ -45,7 +34,6 @@
 @@||api.bitpanda.com^$important
 @@||mtdn994s.r.eu-central-1.awstrack.me^$important
 @@||cunda-newsletter.prudsys-rde.de^$important
-@@||sltboard.live^$important
 @@||ubisoft.com^$important
 @@||dhl.com^$important
 @@||dhl.de^$important
