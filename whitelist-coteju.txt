@@ -1,3 +1,5 @@
+@@||weareholy.com^$important
+@@||l.klarna.com^$important
 @@||storage.content-editor.campaign.optimizely.com^$important
 @@||t.co/^$important
 @@||quickconnect.to^$important
@@ -37,3 +39,4 @@
 @@||ubisoft.com^$important
 @@||dhl.com^$important
 @@||dhl.de^$important
+
